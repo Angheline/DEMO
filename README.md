@@ -20,10 +20,11 @@
 
 ![Plantilla 4](https://i.imgur.com/xu5WJZl.jpg)
 
-### Elaboracion del HTML
+![Plantilla 5](https://i.imgur.com/dScoFdZ.jpg)
 
-![Elaboración de HTML](https://i.imgur.com/xu5WJZl.jpg)
+![Plantilla 5](https://i.imgur.com/k2lt4CX.jpg)
 
-### Reuniones
+###Elaboración del Figma
+![Reunión 1](https://i.imgur.com/qqnAykq.png)
 
-![Reuniones](https://i.imgur.com/k2lt4CX.jpg)
+![Reunión 2](https://i.imgur.com/grDcin6.png)
