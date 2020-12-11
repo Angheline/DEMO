@@ -1,5 +1,3 @@
-# DEMO
-
 # ¡Bienvenido a la página Elecciones 2021!
 
 ## Proceso
