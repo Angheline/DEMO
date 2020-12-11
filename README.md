@@ -1,6 +1,13 @@
 # ¡Bienvenido a la página Elecciones 2021!
 
-## Proceso
+
+## Introducción
+'Elecciones 2021' es una pequeña trivia que nació de la idea de ver que tan informada esta la población peruana con respecto a las proximas elecciones presidenciales a realizarse el 11 de Abril del 2021. Se le estará presentando a cada usuario una serie de preguntas relacionadas con los candidatos politicos y tambien acerca de sus conocimientos con respecto a responsabilidad civil que se estará manifestando en las personas a cargo de ser miembros de mesa. 
+
+## ¿Cómo pueden comenzar los usuarios con el proyecto?
+La forma de acceso es una en la que el usuario puede enetender facilmente, solo será necesario introducir su nombre y ya estará dentro del juego.
+
+## Proceso de elaboración
 - Para la elaboración de la página tuvimos como usuario a la madre de una de las integrantes(Nadieza) y nos comento sus ideas acerca de lo que le gustaria incluir en la trivia.
 - Una vez con las ideas del cliente, procedimos a plasmar todo ello en un borrador, el borrador fue presentado y el cliente indico algunas correcciones.
 - Luego de elaborar todas las correciones pasamos a Figma, y empezamos a elaborar el diseño. Cuando se finalizo, se hizo un testeo con el usuario en donde se ponia a prueba los diversos vectores y ubicación de botones.
