@@ -24,7 +24,7 @@
 
 ![Plantilla 5](https://i.imgur.com/k2lt4CX.jpg)
 
-###Elaboración del Figma
+### Elaboración del Figma
 ![Reunión 1](https://i.imgur.com/qqnAykq.png)
 
 ![Reunión 2](https://i.imgur.com/grDcin6.png)
